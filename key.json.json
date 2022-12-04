@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "project-food-b1180",
+  "private_key_id": "ecc06372d78a6242f539745c5914549b40e75ff6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDGZTPyQOP51usu\nJe5fyxNq2jnAIVLKOQRcz4t1NzP22rP+Bee2dzRcpgqAOgly0fw32com4Ly4Dktx\nm6euXTeembonRkQD79tcP5hAS10/6SUv955Vio6raMyXjBRFjvj0bVWhkY8F9Ddy\nrxWWF8QBa7+j4p0MT5eYLr4OakDL3ObzY/g6DcL1VFX33rBK/qoAt/84r1SVk8qa\nVXU2fvm+6Xq4BKZ+lzKhZhQTOym8nlp2fI1wgg+96aaF3NkjDtgWjiTqmIWAtvdB\nr/VaanaIDxOZZT4On7Qd2PBhaf/9O4i5bkkGAGlsZGWOEo63NjSvJK+TBMjP7Xla\nkG2BBsvBAgMBAAECggEAGAqFORTVM24wZVEWIeBQT+1WHHLFTylJ3qvNRtTbzIz7\nzPte9PDcxOHfiaKOyM3KmiN/gEbRQ54C1SdjMklMP0E6aj406YO4MaVosBjZ2c/p\nMFb5pjzCNWH/kdk5DyVIRIlXvDqQ6ewqSHDQRTYHy9LIYCYKuSZPdNLsN7+3LqTV\naIackf8I4DHwYDQkxDF1I08JycFSYGTD37tIlLdM/TJfRinEYJNRtsiaqS4LPHYm\nFLO3Sxvqk6R4FTPwW8IOPLLETwcEGfoh7ou/BKPC4tSMTsSLde+f3tDRoJZxEK7n\ncS52fTWkyaYV5R/9KqyYyhk/Vc6eP6FPZogFRD3g2QKBgQDoKjxTt7DjNO3gWJtR\nLzbLEpdYeCMTng8YGqw0/4POKmulBWPcHnTqsnjr5LHqingrKrDLFp8iWAFxQlec\n55SDyW+WJEbN7mTUpusBWa6g43o0P71vKe7lx5R9FR71OtDDWJRNFJv4jTVmK4i3\nXHT7yJIf/2bCf4bqIHK6ZRgq2QKBgQDaw261ybEhAR1HehI3wjQ19OlSDoZ8y+po\nKAQ9o9bYvFGPhUOFSddI1BvIcCTxDrwDPk/iKCQHRutjV6zA8UFH+7WOKCFqoFby\n/96O1AjdIW9HGN4SpPFY3qgTPXZ0M2oiZPHEq4vjiw7LD3S2txJsh/ohdZmIu9jF\nmtkvqVwHKQKBgGIK1AcWn6CTjZEcWhrisWT4qOk3criqGv225dpLvUGnMGYz7IPc\naMtkKySTI39EkpLIKHjbSMCcIZ/OwGkGcvVkb7ccArqcXgBfrQaY9OIErmq6MClt\nr/FhYxeff79X4ylbkuUqOuOv3kkTQV0NsmlRvkO8+4xPho4AvfJxFs+hAoGBAJXh\nUeegsQfAwLOo8fRbzPOuwXBj3UaBWy9TQ1yL9PX3SBYBoroeVi5ijEpucxDpHG1I\ncuiqwcxujXU5q3VhlW1hCgnEeuiXxBqmrW/D2/LNJnVal0PE2Eof+p17/b0tQKkh\n6fbp5WTXcCI1i6xnj2rmWrwz2yYwNRtltSmPairJAoGBANJR2DKYibwv6l08z842\nKw2Xa3dTHU8AdCPPEypyr+ghaOcb8RN3+9/I27A4+CooivBpza2nn5XQC/tkt1fJ\nhW6dAbq4qs/3BPzv4YA+5yjMpuH73NWlnzPtgBJR8OiiRLBwoTK7x8CnhyqZVefD\nrTqA+Je6RIYujdCSDa5TNmou\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-hyruj@project-food-b1180.iam.gserviceaccount.com",
+  "client_id": "108401808876326763636",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-hyruj%40project-food-b1180.iam.gserviceaccount.com"
+}
